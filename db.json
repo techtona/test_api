@@ -1,0 +1,121 @@
+{"mahasiswa": [{
+  "id": 1,
+  "name": "Langur, hanuman",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "name": "Chickadee, black-capped",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "name": "Gecko, ring-tailed",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "name": "Booby, blue-faced",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "name": "Greater roadrunner",
+  "gender": "Male"
+}, {
+  "id": 6,
+  "name": "Leopard",
+  "gender": "Female"
+}, {
+  "id": 7,
+  "name": "Lechwe, kafue flats",
+  "gender": "Female"
+}, {
+  "id": 8,
+  "name": "Grey phalarope",
+  "gender": "Male"
+}, {
+  "id": 9,
+  "name": "Slender-billed cockatoo",
+  "gender": "Female"
+}, {
+  "id": 10,
+  "name": "Cat, miner's",
+  "gender": "Male"
+}, {
+  "id": 11,
+  "name": "Stork, openbill",
+  "gender": "Male"
+}, {
+  "id": 12,
+  "name": "Grizzly bear",
+  "gender": "Male"
+}, {
+  "id": 13,
+  "name": "Red phalarope",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "name": "Ibis, puna",
+  "gender": "Female"
+}, {
+  "id": 15,
+  "name": "Flicker, campo",
+  "gender": "Male"
+}, {
+  "id": 16,
+  "name": "Tiger cat",
+  "gender": "Male"
+}, {
+  "id": 17,
+  "name": "Black-throated cardinal",
+  "gender": "Male"
+}, {
+  "id": 18,
+  "name": "Western lowland gorilla",
+  "gender": "Female"
+}, {
+  "id": 19,
+  "name": "Shrike, common boubou",
+  "gender": "Male"
+}, {
+  "id": 20,
+  "name": "Starfish, crown of thorns",
+  "gender": "Male"
+}, {
+  "id": 21,
+  "name": "Tern, royal",
+  "gender": "Female"
+}, {
+  "id": 22,
+  "name": "Reindeer",
+  "gender": "Male"
+}, {
+  "id": 23,
+  "name": "Cormorant, neotropic",
+  "gender": "Male"
+}, {
+  "id": 24,
+  "name": "Heron, gray",
+  "gender": "Female"
+}, {
+  "id": 25,
+  "name": "Grey mouse lemur",
+  "gender": "Female"
+}, {
+  "id": 26,
+  "name": "Brown brocket",
+  "gender": "Male"
+}, {
+  "id": 27,
+  "name": "Fox, pampa gray",
+  "gender": "Female"
+}, {
+  "id": 28,
+  "name": "Western palm tanager (unidentified)",
+  "gender": "Female"
+}, {
+  "id": 29,
+  "name": "Heron, black-crowned night",
+  "gender": "Male"
+}, {
+  "id": 30,
+  "name": "Woodrat (unidentified)",
+  "gender": "Female"
+}]}
